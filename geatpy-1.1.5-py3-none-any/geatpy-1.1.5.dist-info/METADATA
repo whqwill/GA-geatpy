@@ -1,0 +1,20 @@
+Metadata-Version: 2.0
+Name: geatpy
+Version: 1.1.5
+Summary: Geatpy is a high-performance GEA toolbox for Python.
+Home-page: http://www.geatpy.com
+Author: Geatpy Team
+Author-email: jazzbin@geatpy.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Dist: numpy (>=1.12.1)
+Requires-Dist: matplotlib (>=2.0.0)
+
+Geatpy--The Genetic and Evolutionary Algorithms Toolbox for Python. http://www.geatpy.com
+
+
